@@ -69,10 +69,12 @@ IP, TCP/UDP layers, and data payload.
 ## 5. Export or Save the Capture
 • Go to File > Save As to store the capture in .pcap format for future analysis.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb97ba4b-f39a-402f-8a59-de040dbfab99" />
+<img width="1617" height="793" alt="image" src="https://github.com/user-attachments/assets/093282d3-4a42-401e-8885-6ef4e116780d" />
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3568a38e-ecd2-484a-975c-64d2810fd655" />
+
+<img width="1595" height="825" alt="10 last img" src="https://github.com/user-attachments/assets/66bd30fe-6d80-414d-a480-5eb46bf4c8fa" />
+
 
 
 
